@@ -2,6 +2,8 @@
 
 This repository contains files related to the tutorial: _Building a nivo dashboard with Cube_
 
+![Final Dashboard](https://i.imgur.com/7nLVozg.png)
+
 ## Getting Started
 
 It's a simple CRA project that is consuming Cube API to render a dashboard using Nivo library.
