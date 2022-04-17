@@ -1,6 +1,6 @@
 # Building a nivo dashboard with Cube
 
-This repository contains files related to the tutorial: _Building a nivo dashboard with Cube_
+This repository contains files related to the tutorial: _Building a nivo dashboard with Cube_ (link here: https://cube.dev/blog/building-a-nivo-dashboard-with-cube)
 
 ![Final Dashboard](https://i.imgur.com/7nLVozg.png)
 
